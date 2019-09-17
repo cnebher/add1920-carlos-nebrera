@@ -4,3 +4,12 @@ Trabajo de ADD
 * Ejemplo 2
 * Otro
 > Nota de info
+
+Estamos en clase de ADD
+
+```
+
+git clone(codigo)
+```
+
+![imagen_prueba](img/fondo_pantalla_derecha.jpg)
