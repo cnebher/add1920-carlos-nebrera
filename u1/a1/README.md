@@ -1,6 +1,6 @@
-# Acceso remoto con VCN
+# Acceso remoto con VCN.
 
-## Comprobación final VNC Windows
+## Comprobación final VNC Windows.
 Conectamos el equipo master (ip `172.19.23.11`) a dos slave, uno con sistema operativo Windows y otro con OpenSuse 15.
 
 ![Windows 7](img/comprobacion_final_w.png)
@@ -11,7 +11,7 @@ Conectamos el equipo master (ip `172.19.23.11`) a dos slave, uno con sistema ope
 
  > IP Windows -----> 172.19.23.12
 
-## Comprobación final VNC Linux
+## Comprobación final VNC Linux.
 
 Ahora es un equipo, pero con sistema operativo OpenSuse (ip `172.19.23.31`), el que actúa de master.
 
