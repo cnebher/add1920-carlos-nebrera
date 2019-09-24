@@ -11,5 +11,3 @@ Estamos en clase de ADD
 
 git clone(codigo)
 ```
-
-![imagen_prueba](img/fondo_pantalla_derecha.jpg)
