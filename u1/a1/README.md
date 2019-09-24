@@ -5,7 +5,7 @@ Conectamos el equipo master (ip `172.19.23.11`) a dos slave, uno con sistema ope
 
 ![Windows 7](img/comprobacion_final_w.png)
 
- * Para realizar esta conexión hemos usado la aplicación `TightVNC`, la cual es una herramienta libre para Windows
+ * Para realizar esta conexión hemos usado la aplicación `TightVNC`, la cual es una herramienta libre para Windows.
 
 > IP OpenSuse -----> 172.19.23.32
 
@@ -17,4 +17,4 @@ Ahora es un equipo, pero con sistema operativo OpenSuse (ip `172.19.23.31`), el 
 
 ![OpenSuse15](img/comprobacion_final_l.png)
 
-* Es importante fijarse si los puertos VNC del cortafuegos están abiertos
+* Es importante fijarse si los puertos VNC del cortafuegos están abiertos.
