@@ -13,7 +13,9 @@ Ejemplo de rúbrica:
 
 #### (1.4 y 1.5) Fichero smb.conf
 
-![fichero](img/)
+![fichero1](img/1.png)
+
+![fichero2](img/)
 
 ---
 
