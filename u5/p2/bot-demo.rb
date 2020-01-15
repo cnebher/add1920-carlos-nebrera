@@ -17,6 +17,8 @@ Telegram::Bot::Client.run(token) do |bot|
       bot.api.send_message(chat_id: message.chat.id, text: "Hello Word!")
     elsif message.text == "/byebye"
       bot.api.send_message(chat_id: message.chat.id, text: "Bye bye!")
+    elsif message.text == "/ip"
+      bot.api.send_message(chat_id: message.chat.id, text: ip = `ip a | grep 'inet ' | grep -v 'host lo'`)
     end
   end
 end
