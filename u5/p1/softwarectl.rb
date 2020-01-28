@@ -14,7 +14,7 @@ def check(package)
 end
 
 def install(package)
-  status = `whereis #{package[0]} | grep bin |wc -l`
+  status = `whereis #{package[0]} | grep bin |wc -l`.chop
 
   if package[1] == "install"
     if status == "0"
