@@ -183,3 +183,11 @@ Para ello ejecutamos el comando `salt '*' state.show_states` para ver el estado 
 ![comprobar](img/23.png)
 
 ## 4.- Windows 7 minion.
+
+* Instalamos salt-minion.
+
+![instalar](img/24.png)
+
+* Aceptamos en la máquina Máster.
+
+![aceptar](img/25.png)
